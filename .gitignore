@@ -1,0 +1,20 @@
+# 排除临时/系统文件
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# 排除游玩/写作产生的世界数据（用户自己的内容，不入库）
+worlds/
+saves/
+playlog/
+novel/
+
+# 排除 Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 排除 IDE
+.vscode/
+.idea/
