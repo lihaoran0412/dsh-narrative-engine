@@ -1,6 +1,7 @@
 # 📖 narrative-engine
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![DeepSeek Harness plugin](https://img.shields.io/badge/DeepSeek%20Harness-plugin-202724)](https://github.com/lihaoran0412/dsh-narrative-engine)
 [![Release](https://img.shields.io/github/v/release/lihaoran0412/dsh-narrative-engine?style=for-the-badge)](https://github.com/lihaoran0412/dsh-narrative-engine/releases)
 
 > **插件形态：AI Preset**：DeepSeek Harness 的沉浸叙事**双向创作引擎**。把小说导入为可游玩的 v3 世界，角色扮演游玩后反向写成同人小说。核心入口是 `agent.cordis.yml` + `preset.yml`，自包含两个技能。安装时请将 `narrative-engine` 整个目录复制到 DSH 的 preset 目录，不要只复制单个文件。
