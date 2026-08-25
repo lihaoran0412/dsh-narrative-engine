@@ -122,5 +122,5 @@
 
 ## 📜 许可证
 
-- 本 preset（`narrative-engine` 技能 + 组合）：**MIT**，Copyright (c) 2026 李浩然
+- 本 preset（`narrative-engine` 技能 + 组合）：**MIT**，Copyright (c) 2026 lihaoran0412
 - `adult-tension-narrative`：MIT，Copyright (c) 2026 daha1216（见 `skills/adult-tension-narrative/LICENSE`）
